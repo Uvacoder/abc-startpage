@@ -9,7 +9,7 @@
 </p>
 
 ## Usage Instructions
-
+--
 1. Clone this repository to your local machine
 2. `cd` into the cloned folder
 3. Run `npm install`
